@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-arch-wiki-integration"
+name = "sigmaos-wiki-integration"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS arch-wiki-integration component"
+description = "SigmaOS wiki-integration component"
 
 [lib]
-name = "arch_wiki_integration"
+name = "sigmaos_wiki_integration"
 path = "src/lib.rs"

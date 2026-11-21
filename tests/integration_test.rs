@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-arch-wiki-integration
+// Integration test for SigmaOS-wiki-integration
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use arch_wiki_integration as _;
+use sigmaos_wiki_integration as _;
 
 #[test]
 fn crate_links_and_runs() {

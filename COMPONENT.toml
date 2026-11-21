@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-wiki-integration"
+name = "SigmaOS-wiki-integration"
 tier = 2
 stability = "beta"
 language = "rust"

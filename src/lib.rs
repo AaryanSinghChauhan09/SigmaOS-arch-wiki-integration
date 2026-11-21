@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-arch-wiki-integration: arch wiki integration component model.
+//! SigmaOS-wiki-integration: arch wiki integration component model.
 //!
 //! Real implementation: integrations, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

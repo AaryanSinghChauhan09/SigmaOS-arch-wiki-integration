@@ -1,4 +1,4 @@
-# SigmaOS-arch-wiki-integration
+# SigmaOS-wiki-integration
 
 Wiki integration for SigmaOS inspired by Arch Linux
 

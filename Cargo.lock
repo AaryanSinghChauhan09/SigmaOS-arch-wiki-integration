@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "SigmaOS-arch-wiki-integration"
+name = "sigmaos-wiki-integration"
 version = "0.1.0"
